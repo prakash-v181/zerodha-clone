@@ -4,7 +4,7 @@ A full-stack clone of the popular Indian stock trading platform **Zerodha**, bui
 
 # 🚀 Features
 
-- 🔐 User Authentication (Register/Login/Logout)
+
 - 📊 Real-time Stock Market Data (via public APIs)
 - 🗂️ Dashboard for Holdings, Orders, and Positions
 - 🧾 Place Buy/Sell Orders (mock trades)
@@ -16,8 +16,8 @@ A full-stack clone of the popular Indian stock trading platform **Zerodha**, bui
 🛠️ Tech Stack
 
 Frontend:
-- React.js / Next.js
-- Redux Toolkit / Context API (state management)
+- React.js 
+- Context API (state management)
 - Chart.js / TradingView Widget (charts)
 - Tailwind CSS / Material UI (design)
 
@@ -86,7 +86,10 @@ Open a Pull Request
 
 📃 License
 This project is licensed under the MIT License.
+
 <br/>
+<br/>
+
 🙏 Acknowledgements
 Zerodha for the original inspiration
 
